@@ -1,0 +1,171 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Mobiplus Subscriber form\n"
+"POT-Creation-Date: 2019-03-12 15:30+0100\n"
+"PO-Revision-Date: 2019-03-12 15:30+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp_mv_subscriber.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wp_mv_subscriber.php:37
+msgid "User Account"
+msgstr ""
+
+#: wp_mv_subscriber.php:44 wp_mv_subscriber.php:52
+msgid "Mobiplus User"
+msgstr ""
+
+#: wp_mv_subscriber.php:58 wp_mv_subscriber.php:66
+msgid "Mobiplus API Key"
+msgstr ""
+
+#: wp_mv_subscriber.php:72
+msgid "SMS Info"
+msgstr ""
+
+#: wp_mv_subscriber.php:79 wp_mv_subscriber.php:87
+msgid "SMS List ID"
+msgstr ""
+
+#: wp_mv_subscriber.php:93 wp_mv_subscriber.php:101
+msgid "SMS Placeholder"
+msgstr ""
+
+#: wp_mv_subscriber.php:107
+msgid "Email Info"
+msgstr ""
+
+#: wp_mv_subscriber.php:114 wp_mv_subscriber.php:122
+msgid "Email List ID"
+msgstr ""
+
+#: wp_mv_subscriber.php:128 wp_mv_subscriber.php:136
+msgid "Email Placeholder"
+msgstr ""
+
+#: wp_mv_subscriber.php:142
+msgid "Text Info"
+msgstr ""
+
+#: wp_mv_subscriber.php:149 wp_mv_subscriber.php:157
+msgid "Subcribe button text"
+msgstr ""
+
+#: wp_mv_subscriber.php:163 wp_mv_subscriber.php:171
+msgid "Success response text"
+msgstr ""
+
+#: wp_mv_subscriber.php:177 wp_mv_subscriber.php:185
+msgid "Failed response text"
+msgstr ""
+
+#: wp_mv_subscriber.php:191
+msgid "Color Settings"
+msgstr ""
+
+#: wp_mv_subscriber.php:198
+msgid "Background Color"
+msgstr ""
+
+#: wp_mv_subscriber.php:211
+msgid "Text Color"
+msgstr ""
+
+#: wp_mv_subscriber.php:224
+msgid "Button Text Color"
+msgstr ""
+
+#: wp_mv_subscriber.php:237
+msgid "Button Background Color"
+msgstr ""
+
+#: wp_mv_subscriber.php:250
+msgid "Button Border Color"
+msgstr ""
+
+#: wp_mv_subscriber.php:289
+msgid "Mobiplus Subscriber Form"
+msgstr ""
+
+#: wp_mv_subscriber.php:290
+msgid "Plugin Info"
+msgstr ""
+
+#: wp_mv_subscriber.php:291
+msgid "Here is an textblock"
+msgstr ""
+
+#: wp_mv_subscriber.php:292
+msgid "The short code"
+msgstr ""
+
+#: wp_mv_subscriber.php:293
+msgid "[MPSUBSCRIBEFORM]"
+msgstr ""
+
+#: wp_mv_subscriber.php:294
+msgid "Available parameters"
+msgstr ""
+
+#: wp_mv_subscriber.php:295
+msgid "printForm=true/false (default true)"
+msgstr ""
+
+#: wp_mv_subscriber.php:296
+msgid "identityType=email/sms (default email)"
+msgstr ""
+
+#: wp_mv_subscriber.php:297
+msgid "smsListId=XX (overide default in admin)"
+msgstr ""
+
+#: wp_mv_subscriber.php:298
+msgid "emailListId=XX (overide default in admin)"
+msgstr ""
+
+#: wp_mv_subscriber.php:299
+msgid ""
+"Example: [MPSUBSCRIBEFORM printForm=false identityType=sms smsListId=10]"
+msgstr ""
+
+#: wp_mv_subscriber.php:340
+msgid "SMS"
+msgstr ""
+
+#: wp_mv_subscriber.php:342
+msgid "EMAIL"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Mobiplus Subscriber form"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/mobiplus-subscription/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Enables subscription to EMAIL and SMS lists from WP web site"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mobiplus"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.mobiplus.se"
+msgstr ""

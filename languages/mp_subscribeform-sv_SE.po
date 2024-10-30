@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mobiplus Subscriber form\n"
+"POT-Creation-Date: 2019-04-11 10:33+0200\n"
+"PO-Revision-Date: 2019-04-11 10:36+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp_mv_subscriber.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wp_mv_subscriber.php:39
+msgid "User Account"
+msgstr "Användarkonto"
+
+#: wp_mv_subscriber.php:46 wp_mv_subscriber.php:54
+msgid "Mobiplus User"
+msgstr "Mobiplus användare"
+
+#: wp_mv_subscriber.php:60 wp_mv_subscriber.php:68
+msgid "Mobiplus API Key"
+msgstr "Mobiplus API-nyckel"
+
+#: wp_mv_subscriber.php:74
+msgid "SMS Info"
+msgstr "SMS-info"
+
+#: wp_mv_subscriber.php:81 wp_mv_subscriber.php:89
+msgid "SMS List ID"
+msgstr "ID för SMS-lista"
+
+#: wp_mv_subscriber.php:95 wp_mv_subscriber.php:103
+msgid "SMS Placeholder"
+msgstr "SMS Placeholder  "
+
+#: wp_mv_subscriber.php:109
+msgid "Email Info"
+msgstr "E-post info"
+
+#: wp_mv_subscriber.php:116 wp_mv_subscriber.php:124
+msgid "Email List ID"
+msgstr "ID för e-postlista"
+
+#: wp_mv_subscriber.php:130 wp_mv_subscriber.php:138
+msgid "Email Placeholder"
+msgstr "E-post Placeholder"
+
+#: wp_mv_subscriber.php:144
+msgid "Text Info"
+msgstr "Information om text"
+
+#: wp_mv_subscriber.php:151
+msgid "Label Text"
+msgstr "Etikett text"
+
+#: wp_mv_subscriber.php:159
+msgid "ex. Email or Sms"
+msgstr "ex. e-post eller SMS"
+
+#: wp_mv_subscriber.php:165 wp_mv_subscriber.php:173
+msgid "Subcribe button text"
+msgstr "Text för prenumerant-knapp"
+
+#: wp_mv_subscriber.php:179 wp_mv_subscriber.php:187
+msgid "Success response text"
+msgstr "Text för framgångs svar"
+
+#: wp_mv_subscriber.php:193 wp_mv_subscriber.php:201
+msgid "Failed response text"
+msgstr "Misslyckad svars text"
+
+#: wp_mv_subscriber.php:207
+msgid "Already Subcriber"
+msgstr "Redan prenumerant"
+
+#: wp_mv_subscriber.php:215
+msgid "You are already a subcriber"
+msgstr "Du är redan en prenumerant"
+
+#: wp_mv_subscriber.php:221
+msgid "Additional Classes"
+msgstr "Mer CSS-klasser (valfritt)"
+
+#: wp_mv_subscriber.php:229
+msgid "ex. is-outline secondary"
+msgstr ""
+
+#: wp_mv_subscriber.php:235
+msgid "Color Settings"
+msgstr "Färginställningar"
+
+#: wp_mv_subscriber.php:242
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#: wp_mv_subscriber.php:281
+msgid "Mobiplus Subscriber Form"
+msgstr "Mobiplus abonnent formulär"
+
+#: wp_mv_subscriber.php:282
+msgid "Plugin info"
+msgstr "Plugin information"
+
+#: wp_mv_subscriber.php:283
+msgid "Instructions how to use shortcode."
+msgstr "Instruktioner hur man använder shortcode."
+
+#: wp_mv_subscriber.php:284
+msgid "[MPSUBSCRIBEFORM]"
+msgstr ""
+
+#: wp_mv_subscriber.php:285
+msgid "Available parameters"
+msgstr "Tillgängliga parametrar"
+
+#: wp_mv_subscriber.php:286
+msgid "printForm=true/false (default true)"
+msgstr ""
+
+#: wp_mv_subscriber.php:287
+msgid "showtitle=true/false (default true)"
+msgstr ""
+
+#: wp_mv_subscriber.php:288
+msgid "identityType=email/sms (default email)"
+msgstr ""
+
+#: wp_mv_subscriber.php:289
+msgid "smsListId=XX (overide default in admin)"
+msgstr ""
+
+#: wp_mv_subscriber.php:290
+msgid "emailListId=XX (overide default in admin)"
+msgstr ""
+
+#: wp_mv_subscriber.php:292
+msgid ""
+"Example: [MPSUBSCRIBEFORM printForm=false showtitle=true identityType=\"sms"
+"\" smsListId=10]"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Mobiplus Subscriber form"
+msgstr "Mobiplus abonnent formulär"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/mobiplus-subscription/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Enables subscription to EMAIL and SMS lists from WP web site"
+msgstr "Möjliggör prenumeration på e-post och SMS-listor från WP webbplats"
+
+#. Author of the plugin/theme
+msgid "Mobiplus"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.mobiplus.se"
+msgstr ""
+
+#~ msgid "Text Color"
+#~ msgstr "Textfärg"
+
+#~ msgid "Button Text Color"
+#~ msgstr "Knapptextfärg"
+
+#~ msgid "Button Background Color"
+#~ msgstr "Bakgrundsfärg knapp"
+
+#~ msgid "Button Border Color"
+#~ msgstr "Ramfärg för knapp"
+
+#~ msgid "SMS"
+#~ msgstr "SMS"
+
+#~ msgid "EMAIL"
+#~ msgstr "E-POST"
+
+#~ msgid "Here is an textblock"
+#~ msgstr "Här är ett textblock"
+
+#~ msgid "The short code"
+#~ msgstr "Shortcode"
